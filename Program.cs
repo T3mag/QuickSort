@@ -1,7 +1,4 @@
-﻿using Internal;
-using System;
-
-const int n = 5;
+﻿const int n = 5;
 int[] array = new int[n];
 
 ArrayGeneration(array, n);
